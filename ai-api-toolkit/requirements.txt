@@ -1,0 +1,10 @@
+# 核心依赖
+openai>=1.0.0
+
+# 可选依赖
+anthropic>=0.18.0  # Anthropic/Claude支持
+google-generativeai>=0.3.0  # Google Gemini支持
+redis>=5.0.0  # Redis缓存支持
+
+# 其他
+python-dotenv>=1.0.0  # 环境变量管理
