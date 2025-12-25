@@ -1,0 +1,17 @@
+# AI Agent 框架
+semantic-kernel>=1.0.0
+
+# OpenAI 客户端
+openai>=1.0.0
+
+# 前端框架
+chainlit>=1.0.0
+
+# 工具库
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+
+# 测试
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
